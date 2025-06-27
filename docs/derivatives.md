@@ -1,9 +1,5 @@
 # Derivatives
 
-Note: Clicking any link within the readthedocs site will not open a new web browser tab.  If you want to keep your docs open, either middle-click or right-click and choose open in new tab for the links you would like to follow.
-
----
-
 ## 1. About this Document
 
 This document reports and describes the derivative files containing processed data that are in the `abcd-hcp-pipeline` and `freesurfer-5.3.0-HCP` derivative folders from the ABCC.  All BIDS derivative record data types within this document are written in `monospace` font.  They are prefaced by their short names. References for other derivatives from pipelines like:
