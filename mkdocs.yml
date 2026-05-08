@@ -1,5 +1,10 @@
 site_name: ABCC Archival Data Release Documentation
-theme: readthedocs
+theme:
+  name: readthedocs
+  features:
+    - navigation.instant
+    - content.code.copy
+    - content.action.link
 plugins:
   - search
 docs_dir: docs
