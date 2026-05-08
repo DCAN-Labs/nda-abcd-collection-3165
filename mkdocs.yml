@@ -7,6 +7,11 @@ theme:
     - content.action.link
 plugins:
   - search
+
+markdown_extensions: 
+  - toc:
+      permalink: '🔗'
+      
 docs_dir: docs
 nav:
   - Home: index.md
